@@ -1,0 +1,32 @@
+{
+    "items":[
+        {
+          "id": "rec1JZlfCIBOPdcT2",
+          "title": "Samsung Galaxy S8",
+          "price": "400",
+          "img": "https://www.course-api.com/images/cart/phone-1.png",
+          "qnty": 1
+        },
+        {
+          "id": "recB6qcHPxb62YJ75",
+          "title": "google pixel",
+          "price": "500",
+          "img": "https://www.course-api.com/images/cart/phone-2.png",
+          "qnty": 1
+        },
+        {
+          "id": "recdRxBsE14Rr2VuJ",
+          "title": "Xiaomi Redmi Note 2",
+          "price": "700",
+          "img": "https://www.course-api.com/images/cart/phone-3.png",
+          "qnty": 1
+        },
+        {
+          "id": "recwTo160XST3PIoW",
+          "title": "Samsung Galaxy S7",
+          "price": "600",
+          "img": "https://www.course-api.com/images/cart/phone-4.png",
+          "qnty": 1
+        }
+      ]
+}
